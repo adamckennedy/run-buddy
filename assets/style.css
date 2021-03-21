@@ -70,7 +70,7 @@ section {
     padding: 60px;
 }
 
-/* Hero Style Start */
+/* Homepage Hero */
 .hero {
     height: 600px;
     background-image: url("../images/hero-bg.jpeg");
@@ -78,7 +78,6 @@ section {
     background-position: center;
     position: relative;
 }
-/* Hero Style End */
 
 .hero-form {
     color: #024e76;
@@ -272,3 +271,9 @@ section {
 }
 
 /* Reach Out Styles End */
+
+/* Privacy Policy Styling beginning */
+
+.secondary-content {
+
+}
