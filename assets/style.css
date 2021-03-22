@@ -79,6 +79,13 @@ section {
     position: relative;
 }
 
+.hero h2 {
+    color: #fce138;
+    font-size: 48px;
+    font-style: italic;
+    font-weight: bold;
+}
+
 .hero-form {
     color: #024e76;
     background-color: #fce138;
