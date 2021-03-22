@@ -12,3 +12,5 @@ https://adamckennedy.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Adam C. Kennedy
+
+# Run Buddy Inc.
